@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class sum {
+public class first_java_assign{
     public static void main(String[] args) {
         int sum=0 ,i=0;
         Scanner input = new Scanner(System.in);
